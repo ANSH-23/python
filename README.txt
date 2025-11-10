@@ -23,6 +23,6 @@ This project analyzes and visualizes player performance data using Python.
 - Graphical charts showing performance trends and rankings
 
 👨‍💻 Developer:
-Ansh Deep
+Ansh Deep and Jyoti Thakur
 Master of Computer Applications
 Chandigarh University
